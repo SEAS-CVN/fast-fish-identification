@@ -31,3 +31,19 @@ This project aims to develop a real-time machine learning solution that:
 - Ocean-monitoring robots and autonomous underwater vehicles
 - Environmental conservation efforts
 - Educational tools for marine biodiversity
+
+## Datasets
+
+For this particular application, we use the [FishNet](https://github.com/faixan-khan/FishNet/?tab=readme-ov-file) dataset published in: 
+
+```
+@inproceedings{khan2023fishnet,
+  title={FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Trait Prediction},
+  author={Khan, Faizan Farooq and Li, Xiang and Temple, Andrew J and Elhoseiny, Mohamed},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={20496--20506},
+  year={2023}
+}
+```
+
+
