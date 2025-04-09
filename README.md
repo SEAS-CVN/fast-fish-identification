@@ -1,1 +1,1 @@
-# fast-fish-identification
+# Real-time Fish Identification for ecosystem monitoring
